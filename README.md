@@ -1,5 +1,6 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${kiritox123}.${460648157});
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/kiritox123=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/kiritox123=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 **kiritox123/kiritox123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/kiritox123=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]();
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/kiritox123=jasongaylord&langs_count=5&theme=tokyonight)]();
+
 
