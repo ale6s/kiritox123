@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${kiritox123}.${460648157})
 
 <!--
 **kiritox123/kiritox123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
