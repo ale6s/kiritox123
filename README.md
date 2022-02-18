@@ -5,11 +5,12 @@
 
 **kiritox123/kiritox123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ <ul>
 <li>🌱 I’m currently learning Cloud Computing</li>
 <li>👯 I’m looking to contribute to open source <li/>
 <li>🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can <li/>
 <li>⚡ Fun fact: I love to play games</li>
-
+ </ul>
 
 
 
