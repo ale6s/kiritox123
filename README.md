@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${kiritox123}.${460648157})
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/kiritox123=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/kiritox123=jasongaylord&langs_count=5&theme=tokyonight)]()
 
