@@ -3,7 +3,7 @@
                                                                                    
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/ale6/"><IMG src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href=https://ajsanchez.dev/"><IMG src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a target="_blank" href=https://ajsanchez.dev/><IMG src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=kiritox123&style=flat-square&color=blue" alt=""/>
     <br/>                                                                                         
